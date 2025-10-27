@@ -1,0 +1,3250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GraphPadPrismFile xmlns="http://graphpad.com/prism/Prism.htm" PrismXMLVersion="5.00">
+<Created>
+<OriginalVersion CreatedByProgram="GraphPad Prism" CreatedByVersion="9.5.0.730" Login="user" DateTime="2025-01-16T09:19:38+08:00"/>
+<MostRecentVersion CreatedByProgram="GraphPad Prism" CreatedByVersion="9.5.0.730" Login="user" DateTime="2025-01-20T16:29:03+08:00"/>
+</Created>
+<DefGraphButton ButtonID="201"/>
+<InfoSequence>
+<Ref ID="Info0" Selected="1"/>
+<Ref ID="Info1"/>
+</InfoSequence>
+<Info ID="Info0">
+<Title>Project info 1</Title>
+<Notes/>
+<Constant><Name>Experiment Date</Name><Value>2025-01-16</Value></Constant>
+<Constant><Name>Experiment ID</Name><Value/></Constant>
+<Constant><Name>Notebook ID</Name><Value/></Constant>
+<Constant><Name>Project</Name><Value/></Constant>
+<Constant><Name>Experimenter</Name><Value/></Constant>
+<Constant><Name>Protocol</Name><Value/></Constant>
+</Info>
+
+<Info ID="Info1">
+<Title>Project info 1</Title>
+<Notes/>
+<Constant><Name>Experiment Date</Name><Value>2025-01-16</Value></Constant>
+<Constant><Name>Experiment ID</Name><Value/></Constant>
+<Constant><Name>Notebook ID</Name><Value/></Constant>
+<Constant><Name>Project</Name><Value/></Constant>
+<Constant><Name>Experimenter</Name><Value/></Constant>
+<Constant><Name>Protocol</Name><Value/></Constant>
+</Info>
+
+<TableSequence>
+<Ref ID="Table0"/>
+<Ref ID="Table3"/>
+<Ref ID="Table5"/>
+<Ref ID="Table7"/>
+<Ref ID="Table9"/>
+<Ref ID="Table11"/>
+<Ref ID="Table13"/>
+<Ref ID="Table15"/>
+<Ref ID="Table17"/>
+<Ref ID="Table19" Selected="1"/>
+</TableSequence>
+<Table ID="Table0" XFormat="none" TableType="OneWay" EVFormat="AsteriskAfterNumber">
+<Title>All database: C index</Title>
+<FloatingNote ID="Sticky188" Auto="0" Color="Yellow" Left="2282" Top="1219" Width="252" Height="5540" ScrWidth="1707" ScrHeight="1067" ScrDPI="144">
+<WebLink Flags="0" ToolTip="@help:column_tables" URL="@help:column_tables">
+More about Column tables
+</WebLink>
+
+<B><Font Size="11" Color="#000000" Face="Arial">0.507797247</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.518272768</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.502767035</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.582740595</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.524712088</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.507142069</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.514913236</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.550640536</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.502816635</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.526871843</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.507525552</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.570404068</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.508691912</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.5348707</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.547398967</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.547398967</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.582136137</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.509456992</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.509861354</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.508425368</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.503839543</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.51485396</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.515616703</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.530750482</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.58105894</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.520551583</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.511156438</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.507441084</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.585096278</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.508685331</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.5006404</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.51485396</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.535855136</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.599184479</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.571168871</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.506515842</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.536309277</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.531724437</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.568540559</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.545540224</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.530514591</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.504632982</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.520841232</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.647941512</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.598815356</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.532332632</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.587279753</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.505365973</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.659748793</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.51361531</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.556810389</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.557298993</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.562012502</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.6811191</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.631937273</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.509548752</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.540601835</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.540601835</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.692237057</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.641762783</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.652606052</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.660450387</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.503407283</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.569774878</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.570780842</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.558441137</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.507382647</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.542582219</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.604248385</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.688010439</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.670707426</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.523293838</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.515608852</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.569774878</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.502149088</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.516463478</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.529481643</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.587955067</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.543152174</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.514111259</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.508429496</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.676010925</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.659122528</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.641091427</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.654886707</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.547114693</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.503673232</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.587798849</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.536425529</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.598291194</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.526186899</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.641113959</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.654189827</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.538724352</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.628603008</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.549083777</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.558858683</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.544529154</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.548346003</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.548346003</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.549428487</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.55047703</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.55553876</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.554091</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.562506903</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.627909359</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.632239487</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.560759492</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.531187432</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.536746557</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.54107187</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.633410653</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.531036782</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.540883634</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.551876921</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.627909359</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.598043306</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.518652866</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.521746603</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.517698819</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.560913505</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.553759209</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.53234012</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.507423619</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.543112045</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.61952951</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.647577534</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.624395271</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.577157236</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.624720045</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.549373516</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.66491988</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.534834332</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.692113576</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.575213939</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.659909555</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.889651952</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.652916488</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.734775913</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.570361563</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.550498758</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.550498758</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.630458239</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.587033912</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.731014326</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.729626684</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.529057785</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.643599128</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.641966703</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.667234698</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.546791049</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.684139788</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.564536188</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.588779014</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.589988504</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.608078252</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.599298026</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.643599128</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.583442863</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.602235214</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.62741554</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.764589195</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.686779487</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.55878626</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.623721588</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.538374866</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.559497807</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.504368123</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>How the data are organized</Font></B>
+<Font Size="11" Color="#000000" Face="Arial"><BR/>The three columns define three groups. The replicate values are stacked in each column</Font>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/><BR/>How to graph these data</Font></B>
+<Font Size="11" Color="#000000" Face="Arial"><BR/>Look in the navigator to the left and find the Graphs folder. Click on the graph in bold. Prism will present several choices for graphing these data. With small numbers of values (like here), it is best to create a scatter plot that shows every value. </Font>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/><BR/>Notes</Font></B>
+<Font Size="11" Color="#000000" Face="Arial"><BR/><BR/>-Unlike many statistics programs, Prism does not define groups using a grouping variable. Instead, the groups are defined by which column each value is entered into. </Font>
+<Font Size="11" Color="#000000" Face="Arial"><BR/><BR/>-When you make a graph, you can choose to plot a column scatter graph (showing each value) or various kinds of graphs that summarize the data (bar graphs, box-and-whisker graphs, violin plots). </Font>
+</FloatingNote>
+
+<YColumn Width="125" Decimals="9" Subcolumns="1">
+<Title>Noval</Title>
+<Subcolumn>
+<d>0.515263</d>
+<d>0.504418</d>
+<d>0.50839</d>
+<d>0.583796</d>
+<d>0.485097</d>
+<d>0.496066</d>
+<d>0.509092</d>
+<d>0.56089</d>
+<d>0.515565</d>
+<d>0.495682</d>
+<d>0.527234</d>
+<d>0.571814</d>
+<d>0.530182</d>
+<d>0.544456</d>
+<d>0.554621</d>
+<d>0.554621</d>
+<d>0.581424</d>
+<d>0.514525</d>
+<d>0.527441</d>
+<d>0.526885</d>
+<d>0.509225</d>
+<d>0.505995</d>
+<d>0.505276</d>
+<d>0.489473</d>
+<d>0.584239</d>
+<d>0.540082</d>
+<d>0.523502</d>
+<d>0.529551</d>
+<d>0.585996</d>
+<d>0.526161</d>
+<d>0.520492</d>
+<d>0.505995</d>
+<d>0.491337</d>
+<d>0.599815</d>
+<d>0.576342</d>
+<d>0.515232</d>
+<d>0.487234</d>
+<d>0.54949</d>
+<d>0.574691</d>
+<d>0.549245</d>
+<d>0.489473</d>
+<d>0.524788</d>
+<d>0.512852</d>
+<d>0.647746</d>
+<d>0.604311</d>
+<d>0.546785</d>
+<d>0.589347</d>
+<d>0.529127</d>
+<d>0.660089</d>
+<d>0.518605</d>
+<d>0.569286</d>
+<d>0.574456</d>
+<d>0.574419</d>
+<d>0.682517</d>
+<d>0.633729</d>
+<d>0.540596</d>
+<d>0.562878</d>
+<d>0.562878</d>
+<d>0.693221</d>
+<d>0.641957</d>
+<d>0.653754</d>
+<d>0.661035</d>
+<d>0.535644</d>
+<d>0.57613</d>
+<d>0.576931</d>
+<d>0.567902</d>
+<d>0.528726</d>
+<d>0.494393</d>
+<d>0.604711</d>
+<d>0.687395</d>
+<d>0.672031</d>
+<d>0.50892</d>
+<d>0.514673</d>
+<d>0.57613</d>
+<d>0.533678</d>
+<d>0.544091</d>
+<d>0.553885</d>
+<d>0.59408</d>
+<d>0.562404</d>
+<d>0.519588</d>
+<d>0.540523</d>
+<d>0.676873</d>
+<d>0.661145</d>
+<d>0.643486</d>
+<d>0.654862</d>
+<d>0.554021</d>
+<d>0.511108</d>
+<d>0.58791</d>
+<d>0.536041</d>
+<d>0.599255</d>
+<d>0.526935</d>
+<d>0.641171</d>
+<d>0.654276</d>
+<d>0.541741</d>
+<d>0.629294</d>
+<d>0.555252</d>
+<d>0.558549</d>
+<d>0.544007</d>
+<d>0.547565</d>
+<d>0.547565</d>
+<d>0.55548</d>
+<d>0.556635</d>
+<d>0.555246</d>
+<d>0.553874</d>
+<d>0.562136</d>
+<d>0.627674</d>
+<d>0.632017</d>
+<d>0.560245</d>
+<d>0.535451</d>
+<d>0.53661</d>
+<d>0.540825</d>
+<d>0.633444</d>
+<d>0.539947</d>
+<d>0.540635</d>
+<d>0.551572</d>
+<d>0.627674</d>
+<d>0.597884</d>
+<d>0.49034</d>
+<d>0.522867</d>
+<d>0.518383</d>
+<d>0.56054</d>
+<d>0.450633</d>
+<d>0.532977</d>
+<d>0.498714</d>
+<d>0.546232</d>
+<d>0.619783</d>
+<d>0.647916</d>
+<d>0.624774</d>
+<d>0.577406</d>
+<d>0.625255</d>
+<d>0.549368</d>
+<d>0.665043</d>
+<d>0.53925</d>
+<d>0.690839</d>
+<d>0.575764</d>
+<d>0.659206</d>
+<d>0.88981</d>
+<d>0.652149</d>
+<d>0.734777</d>
+<d>0.569735</d>
+<d>0.549938</d>
+<d>0.549938</d>
+<d>0.630013</d>
+<d>0.587876</d>
+<d>0.730939</d>
+<d>0.729506</d>
+<d>0.530148</d>
+<d>0.643891</d>
+<d>0.642267</d>
+<d>0.667471</d>
+<d>0.55055</d>
+<d>0.684216</d>
+<d>0.565058</d>
+<d>0.587812</d>
+<d>0.589792</d>
+<d>0.607255</d>
+<d>0.5985</d>
+<d>0.643891</d>
+<d>0.584655</d>
+<d>0.602631</d>
+<d>0.627777</d>
+<d>0.764015</d>
+<d>0.686711</d>
+<d>0.558754</d>
+<d>0.623263</d>
+<d>0.542695</d>
+<d>0.559424</d>
+<d>0.50896</d>
+</Subcolumn>
+</YColumn>
+<YColumn Width="125" Decimals="9" Subcolumns="1">
+<Title>Traditional</Title>
+<Subcolumn>
+<d>0.499391</d>
+<d>0.50092</d>
+<d>0.547993</d>
+<d>0.53175</d>
+<d>0.521847</d>
+<d>0.480512</d>
+<d>0.600634</d>
+<d>0.595443</d>
+<d>0.589936</d>
+<d>0.588741</d>
+<d>0.565492</d>
+<d>0.566648</d>
+<d>0.561738</d>
+<d>0.560943</d>
+<d>0.652953</d>
+<d>0.586798</d>
+<d>0.562295</d>
+<d>0.50091</d>
+<d>0.524066</d>
+<d>0.591713</d>
+<d>0.533205</d>
+<d>0.523775</d>
+<d>0.484672</d>
+<d>0.514381</d>
+<d>0.582029</d>
+<d>0.580208</d>
+<d>0.57613</d>
+<d>0.553411</d>
+<d>0.626068</d>
+<d>0.645827</d>
+<d>0.52774</d>
+<d>0.654542</d>
+<d>0.642812</d>
+<d>0.630372</d>
+<d>0.531265</d>
+<d>0.60113</d>
+<d>0.599171</d>
+<d>0.603593</d>
+<d>0.515606</d>
+<d>0.511272</d>
+<d>0.512392</d>
+<d>0.513812</d>
+<d>0.509852</d>
+<d>0.617699</d>
+<d>0.597841</d>
+<d>0.612172</d>
+<d>0.624274</d>
+<d>0.537132</d>
+<d>0.574018</d>
+<d>0.593033</d>
+<d>0.60117</d>
+<d>0.565971</d>
+<d>0.54822</d>
+<d>0.558777</d>
+<d>0.560968</d>
+<d>0.544219</d>
+</Subcolumn>
+</YColumn>
+</Table>
+<Table ID="Table3" XFormat="none" TableType="OneWay" EVFormat="AsteriskAfterNumber">
+<Title>All database: Bias corrected C index</Title>
+<FloatingNote ID="Sticky189" Auto="0" Color="Yellow" Left="2282" Top="1219" Width="252" Height="5540" ScrWidth="1707" ScrHeight="1067" ScrDPI="144">
+<WebLink Flags="0" ToolTip="@help:column_tables" URL="@help:column_tables">
+More about Column tables
+</WebLink>
+
+<B><Font Size="11" Color="#000000" Face="Arial">0.507797247</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.518272768</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.502767035</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.582740595</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.524712088</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.507142069</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.514913236</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.550640536</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.502816635</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.526871843</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.507525552</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.570404068</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.508691912</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.5348707</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.547398967</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.547398967</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.582136137</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.509456992</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.509861354</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.508425368</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.503839543</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.51485396</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.515616703</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.530750482</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.58105894</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.520551583</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.511156438</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.507441084</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.585096278</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.508685331</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.5006404</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.51485396</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.535855136</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.599184479</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.571168871</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.506515842</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.536309277</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.531724437</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.568540559</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.545540224</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.530514591</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.504632982</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.520841232</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.647941512</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.598815356</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.532332632</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.587279753</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.505365973</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.659748793</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.51361531</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.556810389</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.557298993</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.562012502</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.6811191</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.631937273</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.509548752</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.540601835</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.540601835</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.692237057</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.641762783</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.652606052</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.660450387</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.503407283</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.569774878</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.570780842</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.558441137</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.507382647</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.542582219</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.604248385</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.688010439</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.670707426</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.523293838</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.515608852</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.569774878</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.502149088</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.516463478</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.529481643</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.587955067</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.543152174</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.514111259</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.508429496</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.676010925</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.659122528</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.641091427</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.654886707</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.547114693</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.503673232</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.587798849</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.536425529</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.598291194</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.526186899</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.641113959</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.654189827</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.538724352</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.628603008</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.549083777</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.558858683</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.544529154</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.548346003</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.548346003</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.549428487</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.55047703</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.55553876</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.554091</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.562506903</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.627909359</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.632239487</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.560759492</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.531187432</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.536746557</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.54107187</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.633410653</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.531036782</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.540883634</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.551876921</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.627909359</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.598043306</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.518652866</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.521746603</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.517698819</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.560913505</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.553759209</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.53234012</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.507423619</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.543112045</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.61952951</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.647577534</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.624395271</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.577157236</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.624720045</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.549373516</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.66491988</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.534834332</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.692113576</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.575213939</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.659909555</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.889651952</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.652916488</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.734775913</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.570361563</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.550498758</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.550498758</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.630458239</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.587033912</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.731014326</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.729626684</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.529057785</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.643599128</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.641966703</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.667234698</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.546791049</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.684139788</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.564536188</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.588779014</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.589988504</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.608078252</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.599298026</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.643599128</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.583442863</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.602235214</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.62741554</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.764589195</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.686779487</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.55878626</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.623721588</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.538374866</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.559497807</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.504368123</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>How the data are organized</Font></B>
+<Font Size="11" Color="#000000" Face="Arial"><BR/>The three columns define three groups. The replicate values are stacked in each column</Font>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/><BR/>How to graph these data</Font></B>
+<Font Size="11" Color="#000000" Face="Arial"><BR/>Look in the navigator to the left and find the Graphs folder. Click on the graph in bold. Prism will present several choices for graphing these data. With small numbers of values (like here), it is best to create a scatter plot that shows every value. </Font>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/><BR/>Notes</Font></B>
+<Font Size="11" Color="#000000" Face="Arial"><BR/><BR/>-Unlike many statistics programs, Prism does not define groups using a grouping variable. Instead, the groups are defined by which column each value is entered into. </Font>
+<Font Size="11" Color="#000000" Face="Arial"><BR/><BR/>-When you make a graph, you can choose to plot a column scatter graph (showing each value) or various kinds of graphs that summarize the data (bar graphs, box-and-whisker graphs, violin plots). </Font>
+</FloatingNote>
+
+<YColumn Width="125" Decimals="9" Subcolumns="1">
+<Title>Noval</Title>
+<Subcolumn>
+<d>0.507797</d>
+<d>0.518273</d>
+<d>0.502767</d>
+<d>0.582741</d>
+<d>0.524712</d>
+<d>0.507142</d>
+<d>0.514913</d>
+<d>0.550641</d>
+<d>0.502817</d>
+<d>0.526872</d>
+<d>0.507526</d>
+<d>0.570404</d>
+<d>0.508692</d>
+<d>0.534871</d>
+<d>0.547399</d>
+<d>0.547399</d>
+<d>0.582136</d>
+<d>0.509457</d>
+<d>0.509861</d>
+<d>0.508425</d>
+<d>0.50384</d>
+<d>0.514854</d>
+<d>0.515617</d>
+<d>0.53075</d>
+<d>0.581059</d>
+<d>0.520552</d>
+<d>0.511156</d>
+<d>0.507441</d>
+<d>0.585096</d>
+<d>0.508685</d>
+<d>0.50064</d>
+<d>0.514854</d>
+<d>0.535855</d>
+<d>0.599184</d>
+<d>0.571169</d>
+<d>0.506516</d>
+<d>0.536309</d>
+<d>0.531724</d>
+<d>0.568541</d>
+<d>0.54554</d>
+<d>0.530515</d>
+<d>0.504633</d>
+<d>0.520841</d>
+<d>0.647942</d>
+<d>0.598815</d>
+<d>0.532333</d>
+<d>0.58728</d>
+<d>0.505366</d>
+<d>0.659749</d>
+<d>0.513615</d>
+<d>0.55681</d>
+<d>0.557299</d>
+<d>0.562013</d>
+<d>0.681119</d>
+<d>0.631937</d>
+<d>0.509549</d>
+<d>0.540602</d>
+<d>0.540602</d>
+<d>0.692237</d>
+<d>0.641763</d>
+<d>0.652606</d>
+<d>0.66045</d>
+<d>0.503407</d>
+<d>0.569775</d>
+<d>0.570781</d>
+<d>0.558441</d>
+<d>0.507383</d>
+<d>0.542582</d>
+<d>0.604248</d>
+<d>0.68801</d>
+<d>0.670707</d>
+<d>0.523294</d>
+<d>0.515609</d>
+<d>0.569775</d>
+<d>0.502149</d>
+<d>0.516463</d>
+<d>0.529482</d>
+<d>0.587955</d>
+<d>0.543152</d>
+<d>0.514111</d>
+<d>0.508429</d>
+<d>0.676011</d>
+<d>0.659123</d>
+<d>0.641091</d>
+<d>0.654887</d>
+<d>0.547115</d>
+<d>0.503673</d>
+<d>0.587799</d>
+<d>0.536426</d>
+<d>0.598291</d>
+<d>0.526187</d>
+<d>0.641114</d>
+<d>0.65419</d>
+<d>0.538724</d>
+<d>0.628603</d>
+<d>0.549084</d>
+<d>0.558859</d>
+<d>0.544529</d>
+<d>0.548346</d>
+<d>0.548346</d>
+<d>0.549428</d>
+<d>0.550477</d>
+<d>0.555539</d>
+<d>0.554091</d>
+<d>0.562507</d>
+<d>0.627909</d>
+<d>0.632239</d>
+<d>0.560759</d>
+<d>0.531187</d>
+<d>0.536747</d>
+<d>0.541072</d>
+<d>0.633411</d>
+<d>0.531037</d>
+<d>0.540884</d>
+<d>0.551877</d>
+<d>0.627909</d>
+<d>0.598043</d>
+<d>0.518653</d>
+<d>0.521747</d>
+<d>0.517699</d>
+<d>0.560914</d>
+<d>0.553759</d>
+<d>0.53234</d>
+<d>0.507424</d>
+<d>0.543112</d>
+<d>0.61953</d>
+<d>0.647578</d>
+<d>0.624395</d>
+<d>0.577157</d>
+<d>0.62472</d>
+<d>0.549374</d>
+<d>0.66492</d>
+<d>0.534834</d>
+<d>0.692114</d>
+<d>0.575214</d>
+<d>0.65991</d>
+<d>0.889652</d>
+<d>0.652916</d>
+<d>0.734776</d>
+<d>0.570362</d>
+<d>0.550499</d>
+<d>0.550499</d>
+<d>0.630458</d>
+<d>0.587034</d>
+<d>0.731014</d>
+<d>0.729627</d>
+<d>0.529058</d>
+<d>0.643599</d>
+<d>0.641967</d>
+<d>0.667235</d>
+<d>0.546791</d>
+<d>0.68414</d>
+<d>0.564536</d>
+<d>0.588779</d>
+<d>0.589989</d>
+<d>0.608078</d>
+<d>0.599298</d>
+<d>0.643599</d>
+<d>0.583443</d>
+<d>0.602235</d>
+<d>0.627416</d>
+<d>0.764589</d>
+<d>0.686779</d>
+<d>0.558786</d>
+<d>0.623722</d>
+<d>0.538375</d>
+<d>0.559498</d>
+<d>0.504368</d>
+</Subcolumn>
+</YColumn>
+<YColumn Width="125" Decimals="9" Subcolumns="1">
+<Title>Traditional</Title>
+<Subcolumn>
+<d>0.508196</d>
+<d>0.520192</d>
+<d>0.535632</d>
+<d>0.516968</d>
+<d>0.501043</d>
+<d>0.532856</d>
+<d>0.600481</d>
+<d>0.594632</d>
+<d>0.588758</d>
+<d>0.582756</d>
+<d>0.560427</d>
+<d>0.561739</d>
+<d>0.55475</d>
+<d>0.550952</d>
+<d>0.651119</d>
+<d>0.584034</d>
+<d>0.550534</d>
+<d>0.537854</d>
+<d>0.505009</d>
+<d>0.581074</d>
+<d>0.500524</d>
+<d>0.512493</d>
+<d>0.550468</d>
+<d>0.514293</d>
+<d>0.575033</d>
+<d>0.572787</d>
+<d>0.567517</d>
+<d>0.536025</d>
+<d>0.625967</d>
+<d>0.645394</d>
+<d>0.522957</d>
+<d>0.654367</d>
+<d>0.64226</d>
+<d>0.63019</d>
+<d>0.531678</d>
+<d>0.601371</d>
+<d>0.599381</d>
+<d>0.60382</d>
+<d>0.506259</d>
+<d>0.506893</d>
+<d>0.508172</d>
+<d>0.509187</d>
+<d>0.501784</d>
+<d>0.617349</d>
+<d>0.597475</d>
+<d>0.611708</d>
+<d>0.623916</d>
+<d>0.534767</d>
+<d>0.573546</d>
+<d>0.592493</d>
+<d>0.600648</d>
+<d>0.565344</d>
+<d>0.545892</d>
+<d>0.557274</d>
+<d>0.559615</d>
+<d>0.541303</d>
+</Subcolumn>
+</YColumn>
+</Table>
+<Table ID="Table5" XFormat="none" TableType="OneWay" EVFormat="AsteriskAfterNumber">
+<Title>CHARLS: Bias corrected C index</Title>
+<FloatingNote ID="Sticky190" Auto="0" Color="Yellow" Left="2282" Top="1219" Width="252" Height="5540" ScrWidth="1707" ScrHeight="1067" ScrDPI="144">
+<WebLink Flags="0" ToolTip="@help:column_tables" URL="@help:column_tables">
+More about Column tables
+</WebLink>
+
+<B><Font Size="11" Color="#000000" Face="Arial">0.507797247</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.518272768</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.502767035</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.582740595</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.524712088</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.507142069</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.514913236</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.550640536</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.502816635</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.526871843</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.507525552</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.570404068</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.508691912</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.5348707</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.547398967</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.547398967</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.582136137</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.509456992</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.509861354</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.508425368</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.503839543</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.51485396</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.515616703</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.530750482</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.58105894</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.520551583</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.511156438</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.507441084</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.585096278</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.508685331</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.5006404</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.51485396</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.535855136</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.599184479</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.571168871</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.506515842</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.536309277</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.531724437</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.568540559</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.545540224</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.530514591</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.504632982</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.520841232</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.647941512</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.598815356</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.532332632</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.587279753</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.505365973</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.659748793</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.51361531</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.556810389</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.557298993</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.562012502</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.6811191</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.631937273</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.509548752</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.540601835</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.540601835</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.692237057</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.641762783</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.652606052</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.660450387</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.503407283</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.569774878</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.570780842</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.558441137</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.507382647</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.542582219</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.604248385</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.688010439</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.670707426</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.523293838</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.515608852</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.569774878</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.502149088</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.516463478</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.529481643</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.587955067</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.543152174</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.514111259</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.508429496</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.676010925</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.659122528</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.641091427</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.654886707</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.547114693</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.503673232</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.587798849</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.536425529</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.598291194</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.526186899</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.641113959</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.654189827</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.538724352</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.628603008</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.549083777</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.558858683</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.544529154</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.548346003</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.548346003</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.549428487</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.55047703</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.55553876</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.554091</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.562506903</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.627909359</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.632239487</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.560759492</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.531187432</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.536746557</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.54107187</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.633410653</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.531036782</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.540883634</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.551876921</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.627909359</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.598043306</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.518652866</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.521746603</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.517698819</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.560913505</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.553759209</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.53234012</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.507423619</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.543112045</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.61952951</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.647577534</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.624395271</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.577157236</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.624720045</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.549373516</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.66491988</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.534834332</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.692113576</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.575213939</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.659909555</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.889651952</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.652916488</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.734775913</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.570361563</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.550498758</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.550498758</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.630458239</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.587033912</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.731014326</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.729626684</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.529057785</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.643599128</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.641966703</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.667234698</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.546791049</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.684139788</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.564536188</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.588779014</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.589988504</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.608078252</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.599298026</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.643599128</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.583442863</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.602235214</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.62741554</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.764589195</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.686779487</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.55878626</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.623721588</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.538374866</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.559497807</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.504368123</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>How the data are organized</Font></B>
+<Font Size="11" Color="#000000" Face="Arial"><BR/>The three columns define three groups. The replicate values are stacked in each column</Font>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/><BR/>How to graph these data</Font></B>
+<Font Size="11" Color="#000000" Face="Arial"><BR/>Look in the navigator to the left and find the Graphs folder. Click on the graph in bold. Prism will present several choices for graphing these data. With small numbers of values (like here), it is best to create a scatter plot that shows every value. </Font>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/><BR/>Notes</Font></B>
+<Font Size="11" Color="#000000" Face="Arial"><BR/><BR/>-Unlike many statistics programs, Prism does not define groups using a grouping variable. Instead, the groups are defined by which column each value is entered into. </Font>
+<Font Size="11" Color="#000000" Face="Arial"><BR/><BR/>-When you make a graph, you can choose to plot a column scatter graph (showing each value) or various kinds of graphs that summarize the data (bar graphs, box-and-whisker graphs, violin plots). </Font>
+</FloatingNote>
+
+<YColumn Width="125" Decimals="9" Subcolumns="1">
+<Title>Noval</Title>
+<Subcolumn>
+<d>0.507797</d>
+<d>0.518273</d>
+<d>0.502767</d>
+<d>0.582741</d>
+<d>0.524712</d>
+<d>0.507142</d>
+<d>0.514913</d>
+<d>0.550641</d>
+<d>0.502817</d>
+<d>0.526872</d>
+<d>0.507526</d>
+<d>0.570404</d>
+<d>0.508692</d>
+<d>0.534871</d>
+<d>0.547399</d>
+<d>0.547399</d>
+<d>0.582136</d>
+<d>0.509457</d>
+<d>0.509861</d>
+<d>0.508425</d>
+<d>0.50384</d>
+<d>0.514854</d>
+<d>0.515617</d>
+<d>0.53075</d>
+<d>0.581059</d>
+<d>0.520552</d>
+<d>0.511156</d>
+<d>0.507441</d>
+<d>0.585096</d>
+<d>0.508685</d>
+<d>0.50064</d>
+<d>0.514854</d>
+<d>0.535855</d>
+<d>0.599184</d>
+<d>0.571169</d>
+<d>0.506516</d>
+<d>0.536309</d>
+<d>0.531724</d>
+<d>0.568541</d>
+<d>0.54554</d>
+<d>0.530515</d>
+<d>0.504633</d>
+</Subcolumn>
+</YColumn>
+<YColumn Width="125" Decimals="9" Subcolumns="1">
+<Title>Traditional</Title>
+<Subcolumn>
+<d>0.508196</d>
+<d>0.520192</d>
+<d>0.535632</d>
+<d>0.516968</d>
+<d>0.501043</d>
+<d>0.532856</d>
+<d>0.600481</d>
+<d>0.594632</d>
+<d>0.588758</d>
+<d>0.582756</d>
+<d>0.560427</d>
+<d>0.561739</d>
+<d>0.55475</d>
+<d>0.550952</d>
+</Subcolumn>
+</YColumn>
+</Table>
+<Table ID="Table7" XFormat="none" TableType="OneWay" EVFormat="AsteriskAfterNumber">
+<Title>CHARLS: C index</Title>
+<FloatingNote ID="Sticky191" Auto="0" Color="Yellow" Left="2282" Top="1219" Width="252" Height="5540" ScrWidth="1707" ScrHeight="1067" ScrDPI="144">
+<WebLink Flags="0" ToolTip="@help:column_tables" URL="@help:column_tables">
+More about Column tables
+</WebLink>
+
+<B><Font Size="11" Color="#000000" Face="Arial">0.507797247</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.518272768</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.502767035</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.582740595</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.524712088</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.507142069</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.514913236</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.550640536</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.502816635</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.526871843</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.507525552</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.570404068</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.508691912</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.5348707</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.547398967</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.547398967</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.582136137</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.509456992</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.509861354</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.508425368</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.503839543</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.51485396</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.515616703</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.530750482</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.58105894</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.520551583</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.511156438</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.507441084</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.585096278</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.508685331</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.5006404</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.51485396</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.535855136</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.599184479</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.571168871</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.506515842</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.536309277</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.531724437</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.568540559</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.545540224</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.530514591</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.504632982</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.520841232</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.647941512</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.598815356</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.532332632</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.587279753</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.505365973</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.659748793</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.51361531</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.556810389</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.557298993</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.562012502</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.6811191</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.631937273</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.509548752</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.540601835</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.540601835</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.692237057</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.641762783</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.652606052</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.660450387</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.503407283</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.569774878</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.570780842</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.558441137</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.507382647</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.542582219</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.604248385</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.688010439</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.670707426</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.523293838</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.515608852</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.569774878</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.502149088</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.516463478</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.529481643</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.587955067</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.543152174</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.514111259</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.508429496</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.676010925</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.659122528</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.641091427</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.654886707</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.547114693</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.503673232</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.587798849</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.536425529</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.598291194</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.526186899</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.641113959</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.654189827</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.538724352</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.628603008</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.549083777</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.558858683</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.544529154</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.548346003</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.548346003</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.549428487</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.55047703</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.55553876</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.554091</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.562506903</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.627909359</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.632239487</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.560759492</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.531187432</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.536746557</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.54107187</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.633410653</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.531036782</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.540883634</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.551876921</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.627909359</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.598043306</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.518652866</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.521746603</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.517698819</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.560913505</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.553759209</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.53234012</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.507423619</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.543112045</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.61952951</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.647577534</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.624395271</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.577157236</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.624720045</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.549373516</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.66491988</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.534834332</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.692113576</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.575213939</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.659909555</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.889651952</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.652916488</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.734775913</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.570361563</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.550498758</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.550498758</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.630458239</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.587033912</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.731014326</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.729626684</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.529057785</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.643599128</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.641966703</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.667234698</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.546791049</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.684139788</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.564536188</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.588779014</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.589988504</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.608078252</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.599298026</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.643599128</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.583442863</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.602235214</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.62741554</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.764589195</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.686779487</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.55878626</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.623721588</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.538374866</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.559497807</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.504368123</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>How the data are organized</Font></B>
+<Font Size="11" Color="#000000" Face="Arial"><BR/>The three columns define three groups. The replicate values are stacked in each column</Font>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/><BR/>How to graph these data</Font></B>
+<Font Size="11" Color="#000000" Face="Arial"><BR/>Look in the navigator to the left and find the Graphs folder. Click on the graph in bold. Prism will present several choices for graphing these data. With small numbers of values (like here), it is best to create a scatter plot that shows every value. </Font>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/><BR/>Notes</Font></B>
+<Font Size="11" Color="#000000" Face="Arial"><BR/><BR/>-Unlike many statistics programs, Prism does not define groups using a grouping variable. Instead, the groups are defined by which column each value is entered into. </Font>
+<Font Size="11" Color="#000000" Face="Arial"><BR/><BR/>-When you make a graph, you can choose to plot a column scatter graph (showing each value) or various kinds of graphs that summarize the data (bar graphs, box-and-whisker graphs, violin plots). </Font>
+</FloatingNote>
+
+<YColumn Width="125" Decimals="9" Subcolumns="1">
+<Title>Noval</Title>
+<Subcolumn>
+<d>0.515263</d>
+<d>0.504418</d>
+<d>0.50839</d>
+<d>0.583796</d>
+<d>0.485097</d>
+<d>0.496066</d>
+<d>0.509092</d>
+<d>0.56089</d>
+<d>0.515565</d>
+<d>0.495682</d>
+<d>0.527234</d>
+<d>0.571814</d>
+<d>0.530182</d>
+<d>0.544456</d>
+<d>0.554621</d>
+<d>0.554621</d>
+<d>0.581424</d>
+<d>0.514525</d>
+<d>0.527441</d>
+<d>0.526885</d>
+<d>0.509225</d>
+<d>0.505995</d>
+<d>0.505276</d>
+<d>0.489473</d>
+<d>0.584239</d>
+<d>0.540082</d>
+<d>0.523502</d>
+<d>0.529551</d>
+<d>0.585996</d>
+<d>0.526161</d>
+<d>0.520492</d>
+<d>0.505995</d>
+<d>0.491337</d>
+<d>0.599815</d>
+<d>0.576342</d>
+<d>0.515232</d>
+<d>0.487234</d>
+<d>0.54949</d>
+<d>0.574691</d>
+<d>0.549245</d>
+<d>0.489473</d>
+<d>0.524788</d>
+</Subcolumn>
+</YColumn>
+<YColumn Width="125" Decimals="9" Subcolumns="1">
+<Title>Traditional</Title>
+<Subcolumn>
+<d>0.499391</d>
+<d>0.50092</d>
+<d>0.547993</d>
+<d>0.53175</d>
+<d>0.521847</d>
+<d>0.480512</d>
+<d>0.600634</d>
+<d>0.595443</d>
+<d>0.589936</d>
+<d>0.588741</d>
+<d>0.565492</d>
+<d>0.566648</d>
+<d>0.561738</d>
+<d>0.560943</d>
+</Subcolumn>
+</YColumn>
+</Table>
+<Table ID="Table9" XFormat="none" TableType="OneWay" EVFormat="AsteriskAfterNumber">
+<Title>CHNS: Bias corrected C index</Title>
+<FloatingNote ID="Sticky192" Auto="0" Color="Yellow" Left="2282" Top="1219" Width="252" Height="5540" ScrWidth="1707" ScrHeight="1067" ScrDPI="144">
+<WebLink Flags="0" ToolTip="@help:column_tables" URL="@help:column_tables">
+More about Column tables
+</WebLink>
+
+<B><Font Size="11" Color="#000000" Face="Arial">0.507797247</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.518272768</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.502767035</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.582740595</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.524712088</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.507142069</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.514913236</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.550640536</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.502816635</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.526871843</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.507525552</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.570404068</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.508691912</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.5348707</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.547398967</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.547398967</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.582136137</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.509456992</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.509861354</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.508425368</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.503839543</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.51485396</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.515616703</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.530750482</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.58105894</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.520551583</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.511156438</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.507441084</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.585096278</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.508685331</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.5006404</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.51485396</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.535855136</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.599184479</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.571168871</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.506515842</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.536309277</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.531724437</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.568540559</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.545540224</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.530514591</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.504632982</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.520841232</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.647941512</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.598815356</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.532332632</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.587279753</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.505365973</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.659748793</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.51361531</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.556810389</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.557298993</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.562012502</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.6811191</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.631937273</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.509548752</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.540601835</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.540601835</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.692237057</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.641762783</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.652606052</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.660450387</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.503407283</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.569774878</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.570780842</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.558441137</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.507382647</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.542582219</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.604248385</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.688010439</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.670707426</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.523293838</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.515608852</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.569774878</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.502149088</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.516463478</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.529481643</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.587955067</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.543152174</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.514111259</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.508429496</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.676010925</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.659122528</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.641091427</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.654886707</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.547114693</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.503673232</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.587798849</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.536425529</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.598291194</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.526186899</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.641113959</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.654189827</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.538724352</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.628603008</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.549083777</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.558858683</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.544529154</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.548346003</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.548346003</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.549428487</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.55047703</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.55553876</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.554091</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.562506903</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.627909359</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.632239487</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.560759492</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.531187432</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.536746557</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.54107187</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.633410653</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.531036782</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.540883634</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.551876921</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.627909359</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.598043306</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.518652866</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.521746603</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.517698819</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.560913505</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.553759209</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.53234012</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.507423619</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.543112045</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.61952951</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.647577534</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.624395271</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.577157236</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.624720045</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.549373516</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.66491988</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.534834332</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.692113576</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.575213939</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.659909555</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.889651952</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.652916488</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.734775913</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.570361563</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.550498758</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.550498758</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.630458239</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.587033912</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.731014326</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.729626684</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.529057785</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.643599128</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.641966703</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.667234698</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.546791049</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.684139788</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.564536188</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.588779014</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.589988504</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.608078252</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.599298026</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.643599128</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.583442863</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.602235214</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.62741554</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.764589195</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.686779487</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.55878626</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.623721588</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.538374866</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.559497807</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.504368123</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>How the data are organized</Font></B>
+<Font Size="11" Color="#000000" Face="Arial"><BR/>The three columns define three groups. The replicate values are stacked in each column</Font>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/><BR/>How to graph these data</Font></B>
+<Font Size="11" Color="#000000" Face="Arial"><BR/>Look in the navigator to the left and find the Graphs folder. Click on the graph in bold. Prism will present several choices for graphing these data. With small numbers of values (like here), it is best to create a scatter plot that shows every value. </Font>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/><BR/>Notes</Font></B>
+<Font Size="11" Color="#000000" Face="Arial"><BR/><BR/>-Unlike many statistics programs, Prism does not define groups using a grouping variable. Instead, the groups are defined by which column each value is entered into. </Font>
+<Font Size="11" Color="#000000" Face="Arial"><BR/><BR/>-When you make a graph, you can choose to plot a column scatter graph (showing each value) or various kinds of graphs that summarize the data (bar graphs, box-and-whisker graphs, violin plots). </Font>
+</FloatingNote>
+
+<YColumn Width="125" Decimals="9" Subcolumns="1">
+<Title>Noval</Title>
+<Subcolumn>
+<d>0.520841</d>
+<d>0.647942</d>
+<d>0.598815</d>
+<d>0.532333</d>
+<d>0.58728</d>
+<d>0.505366</d>
+<d>0.659749</d>
+<d>0.513615</d>
+<d>0.55681</d>
+<d>0.557299</d>
+<d>0.562013</d>
+<d>0.681119</d>
+<d>0.631937</d>
+<d>0.509549</d>
+<d>0.540602</d>
+<d>0.540602</d>
+<d>0.692237</d>
+<d>0.641763</d>
+<d>0.652606</d>
+<d>0.66045</d>
+<d>0.503407</d>
+<d>0.569775</d>
+<d>0.570781</d>
+<d>0.558441</d>
+<d>0.507383</d>
+<d>0.542582</d>
+<d>0.604248</d>
+<d>0.68801</d>
+<d>0.670707</d>
+<d>0.523294</d>
+<d>0.515609</d>
+<d>0.569775</d>
+<d>0.502149</d>
+<d>0.516463</d>
+<d>0.529482</d>
+<d>0.587955</d>
+<d>0.543152</d>
+<d>0.514111</d>
+<d>0.508429</d>
+<d>0.676011</d>
+<d>0.659123</d>
+<d>0.641091</d>
+</Subcolumn>
+</YColumn>
+<YColumn Width="125" Decimals="9" Subcolumns="1">
+<Title>Traditional</Title>
+<Subcolumn>
+<d>0.651119</d>
+<d>0.584034</d>
+<d>0.550534</d>
+<d>0.537854</d>
+<d>0.505009</d>
+<d>0.581074</d>
+<d>0.500524</d>
+<d>0.512493</d>
+<d>0.550468</d>
+<d>0.514293</d>
+<d>0.575033</d>
+<d>0.572787</d>
+<d>0.567517</d>
+<d>0.536025</d>
+</Subcolumn>
+</YColumn>
+</Table>
+<Table ID="Table11" XFormat="none" TableType="OneWay" EVFormat="AsteriskAfterNumber">
+<Title>CHNS: C index</Title>
+<FloatingNote ID="Sticky193" Auto="0" Color="Yellow" Left="2282" Top="1219" Width="252" Height="5540" ScrWidth="1707" ScrHeight="1067" ScrDPI="144">
+<WebLink Flags="0" ToolTip="@help:column_tables" URL="@help:column_tables">
+More about Column tables
+</WebLink>
+
+<B><Font Size="11" Color="#000000" Face="Arial">0.507797247</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.518272768</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.502767035</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.582740595</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.524712088</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.507142069</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.514913236</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.550640536</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.502816635</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.526871843</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.507525552</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.570404068</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.508691912</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.5348707</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.547398967</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.547398967</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.582136137</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.509456992</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.509861354</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.508425368</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.503839543</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.51485396</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.515616703</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.530750482</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.58105894</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.520551583</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.511156438</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.507441084</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.585096278</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.508685331</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.5006404</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.51485396</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.535855136</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.599184479</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.571168871</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.506515842</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.536309277</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.531724437</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.568540559</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.545540224</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.530514591</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.504632982</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.520841232</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.647941512</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.598815356</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.532332632</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.587279753</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.505365973</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.659748793</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.51361531</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.556810389</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.557298993</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.562012502</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.6811191</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.631937273</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.509548752</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.540601835</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.540601835</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.692237057</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.641762783</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.652606052</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.660450387</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.503407283</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.569774878</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.570780842</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.558441137</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.507382647</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.542582219</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.604248385</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.688010439</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.670707426</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.523293838</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.515608852</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.569774878</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.502149088</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.516463478</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.529481643</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.587955067</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.543152174</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.514111259</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.508429496</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.676010925</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.659122528</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.641091427</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.654886707</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.547114693</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.503673232</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.587798849</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.536425529</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.598291194</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.526186899</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.641113959</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.654189827</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.538724352</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.628603008</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.549083777</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.558858683</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.544529154</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.548346003</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.548346003</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.549428487</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.55047703</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.55553876</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.554091</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.562506903</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.627909359</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.632239487</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.560759492</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.531187432</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.536746557</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.54107187</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.633410653</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.531036782</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.540883634</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.551876921</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.627909359</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.598043306</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.518652866</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.521746603</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.517698819</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.560913505</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.553759209</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.53234012</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.507423619</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.543112045</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.61952951</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.647577534</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.624395271</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.577157236</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.624720045</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.549373516</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.66491988</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.534834332</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.692113576</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.575213939</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.659909555</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.889651952</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.652916488</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.734775913</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.570361563</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.550498758</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.550498758</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.630458239</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.587033912</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.731014326</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.729626684</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.529057785</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.643599128</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.641966703</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.667234698</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.546791049</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.684139788</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.564536188</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.588779014</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.589988504</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.608078252</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.599298026</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.643599128</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.583442863</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.602235214</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.62741554</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.764589195</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.686779487</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.55878626</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.623721588</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.538374866</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.559497807</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.504368123</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>How the data are organized</Font></B>
+<Font Size="11" Color="#000000" Face="Arial"><BR/>The three columns define three groups. The replicate values are stacked in each column</Font>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/><BR/>How to graph these data</Font></B>
+<Font Size="11" Color="#000000" Face="Arial"><BR/>Look in the navigator to the left and find the Graphs folder. Click on the graph in bold. Prism will present several choices for graphing these data. With small numbers of values (like here), it is best to create a scatter plot that shows every value. </Font>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/><BR/>Notes</Font></B>
+<Font Size="11" Color="#000000" Face="Arial"><BR/><BR/>-Unlike many statistics programs, Prism does not define groups using a grouping variable. Instead, the groups are defined by which column each value is entered into. </Font>
+<Font Size="11" Color="#000000" Face="Arial"><BR/><BR/>-When you make a graph, you can choose to plot a column scatter graph (showing each value) or various kinds of graphs that summarize the data (bar graphs, box-and-whisker graphs, violin plots). </Font>
+</FloatingNote>
+
+<YColumn Width="125" Decimals="9" Subcolumns="1">
+<Title>Noval</Title>
+<Subcolumn>
+<d>0.512852</d>
+<d>0.647746</d>
+<d>0.604311</d>
+<d>0.546785</d>
+<d>0.589347</d>
+<d>0.529127</d>
+<d>0.660089</d>
+<d>0.518605</d>
+<d>0.569286</d>
+<d>0.574456</d>
+<d>0.574419</d>
+<d>0.682517</d>
+<d>0.633729</d>
+<d>0.540596</d>
+<d>0.562878</d>
+<d>0.562878</d>
+<d>0.693221</d>
+<d>0.641957</d>
+<d>0.653754</d>
+<d>0.661035</d>
+<d>0.535644</d>
+<d>0.57613</d>
+<d>0.576931</d>
+<d>0.567902</d>
+<d>0.528726</d>
+<d>0.494393</d>
+<d>0.604711</d>
+<d>0.687395</d>
+<d>0.672031</d>
+<d>0.50892</d>
+<d>0.514673</d>
+<d>0.57613</d>
+<d>0.533678</d>
+<d>0.544091</d>
+<d>0.553885</d>
+<d>0.59408</d>
+<d>0.562404</d>
+<d>0.519588</d>
+<d>0.540523</d>
+<d>0.676873</d>
+<d>0.661145</d>
+<d>0.643486</d>
+</Subcolumn>
+</YColumn>
+<YColumn Width="125" Decimals="9" Subcolumns="1">
+<Title>Traditional</Title>
+<Subcolumn>
+<d>0.652953</d>
+<d>0.586798</d>
+<d>0.562295</d>
+<d>0.50091</d>
+<d>0.524066</d>
+<d>0.591713</d>
+<d>0.533205</d>
+<d>0.523775</d>
+<d>0.484672</d>
+<d>0.514381</d>
+<d>0.582029</d>
+<d>0.580208</d>
+<d>0.57613</d>
+<d>0.553411</d>
+</Subcolumn>
+</YColumn>
+</Table>
+<Table ID="Table13" XFormat="none" TableType="OneWay" EVFormat="AsteriskAfterNumber">
+<Title>NHANES: Bias corrected C index</Title>
+<FloatingNote ID="Sticky194" Auto="0" Color="Yellow" Left="2282" Top="1219" Width="252" Height="5540" ScrWidth="1707" ScrHeight="1067" ScrDPI="144">
+<WebLink Flags="0" ToolTip="@help:column_tables" URL="@help:column_tables">
+More about Column tables
+</WebLink>
+
+<B><Font Size="11" Color="#000000" Face="Arial">0.507797247</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.518272768</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.502767035</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.582740595</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.524712088</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.507142069</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.514913236</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.550640536</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.502816635</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.526871843</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.507525552</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.570404068</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.508691912</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.5348707</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.547398967</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.547398967</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.582136137</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.509456992</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.509861354</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.508425368</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.503839543</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.51485396</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.515616703</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.530750482</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.58105894</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.520551583</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.511156438</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.507441084</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.585096278</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.508685331</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.5006404</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.51485396</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.535855136</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.599184479</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.571168871</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.506515842</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.536309277</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.531724437</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.568540559</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.545540224</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.530514591</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.504632982</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.520841232</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.647941512</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.598815356</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.532332632</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.587279753</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.505365973</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.659748793</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.51361531</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.556810389</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.557298993</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.562012502</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.6811191</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.631937273</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.509548752</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.540601835</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.540601835</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.692237057</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.641762783</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.652606052</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.660450387</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.503407283</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.569774878</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.570780842</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.558441137</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.507382647</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.542582219</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.604248385</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.688010439</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.670707426</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.523293838</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.515608852</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.569774878</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.502149088</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.516463478</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.529481643</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.587955067</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.543152174</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.514111259</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.508429496</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.676010925</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.659122528</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.641091427</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.654886707</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.547114693</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.503673232</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.587798849</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.536425529</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.598291194</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.526186899</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.641113959</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.654189827</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.538724352</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.628603008</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.549083777</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.558858683</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.544529154</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.548346003</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.548346003</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.549428487</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.55047703</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.55553876</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.554091</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.562506903</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.627909359</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.632239487</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.560759492</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.531187432</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.536746557</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.54107187</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.633410653</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.531036782</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.540883634</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.551876921</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.627909359</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.598043306</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.518652866</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.521746603</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.517698819</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.560913505</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.553759209</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.53234012</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.507423619</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.543112045</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.61952951</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.647577534</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.624395271</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.577157236</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.624720045</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.549373516</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.66491988</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.534834332</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.692113576</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.575213939</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.659909555</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.889651952</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.652916488</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.734775913</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.570361563</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.550498758</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.550498758</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.630458239</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.587033912</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.731014326</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.729626684</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.529057785</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.643599128</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.641966703</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.667234698</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.546791049</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.684139788</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.564536188</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.588779014</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.589988504</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.608078252</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.599298026</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.643599128</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.583442863</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.602235214</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.62741554</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.764589195</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.686779487</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.55878626</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.623721588</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.538374866</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.559497807</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.504368123</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>How the data are organized</Font></B>
+<Font Size="11" Color="#000000" Face="Arial"><BR/>The three columns define three groups. The replicate values are stacked in each column</Font>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/><BR/>How to graph these data</Font></B>
+<Font Size="11" Color="#000000" Face="Arial"><BR/>Look in the navigator to the left and find the Graphs folder. Click on the graph in bold. Prism will present several choices for graphing these data. With small numbers of values (like here), it is best to create a scatter plot that shows every value. </Font>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/><BR/>Notes</Font></B>
+<Font Size="11" Color="#000000" Face="Arial"><BR/><BR/>-Unlike many statistics programs, Prism does not define groups using a grouping variable. Instead, the groups are defined by which column each value is entered into. </Font>
+<Font Size="11" Color="#000000" Face="Arial"><BR/><BR/>-When you make a graph, you can choose to plot a column scatter graph (showing each value) or various kinds of graphs that summarize the data (bar graphs, box-and-whisker graphs, violin plots). </Font>
+</FloatingNote>
+
+<YColumn Width="125" Decimals="9" Subcolumns="1">
+<Title>Noval</Title>
+<Subcolumn>
+<d>0.647578</d>
+<d>0.624395</d>
+<d>0.577157</d>
+<d>0.62472</d>
+<d>0.549374</d>
+<d>0.66492</d>
+<d>0.534834</d>
+<d>0.692114</d>
+<d>0.575214</d>
+<d>0.65991</d>
+<d>0.889652</d>
+<d>0.652916</d>
+<d>0.734776</d>
+<d>0.570362</d>
+<d>0.550499</d>
+<d>0.550499</d>
+<d>0.630458</d>
+<d>0.587034</d>
+<d>0.731014</d>
+<d>0.729627</d>
+<d>0.529058</d>
+<d>0.643599</d>
+<d>0.641967</d>
+<d>0.667235</d>
+<d>0.546791</d>
+<d>0.68414</d>
+<d>0.564536</d>
+<d>0.588779</d>
+<d>0.589989</d>
+<d>0.608078</d>
+<d>0.599298</d>
+<d>0.643599</d>
+<d>0.583443</d>
+<d>0.602235</d>
+<d>0.627416</d>
+<d>0.764589</d>
+<d>0.686779</d>
+<d>0.558786</d>
+<d>0.623722</d>
+<d>0.538375</d>
+<d>0.559498</d>
+<d>0.504368</d>
+</Subcolumn>
+</YColumn>
+<YColumn Width="125" Decimals="9" Subcolumns="1">
+<Title>Traditional</Title>
+<Subcolumn>
+<d>0.501784</d>
+<d>0.617349</d>
+<d>0.597475</d>
+<d>0.611708</d>
+<d>0.623916</d>
+<d>0.534767</d>
+<d>0.573546</d>
+<d>0.592493</d>
+<d>0.600648</d>
+<d>0.565344</d>
+<d>0.545892</d>
+<d>0.557274</d>
+<d>0.559615</d>
+<d>0.541303</d>
+</Subcolumn>
+</YColumn>
+</Table>
+<Table ID="Table15" XFormat="none" TableType="OneWay" EVFormat="AsteriskAfterNumber">
+<Title>NHANES: C index</Title>
+<FloatingNote ID="Sticky195" Auto="0" Color="Yellow" Left="2282" Top="1219" Width="252" Height="5540" ScrWidth="1707" ScrHeight="1067" ScrDPI="144">
+<WebLink Flags="0" ToolTip="@help:column_tables" URL="@help:column_tables">
+More about Column tables
+</WebLink>
+
+<B><Font Size="11" Color="#000000" Face="Arial">0.507797247</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.518272768</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.502767035</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.582740595</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.524712088</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.507142069</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.514913236</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.550640536</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.502816635</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.526871843</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.507525552</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.570404068</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.508691912</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.5348707</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.547398967</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.547398967</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.582136137</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.509456992</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.509861354</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.508425368</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.503839543</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.51485396</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.515616703</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.530750482</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.58105894</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.520551583</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.511156438</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.507441084</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.585096278</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.508685331</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.5006404</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.51485396</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.535855136</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.599184479</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.571168871</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.506515842</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.536309277</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.531724437</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.568540559</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.545540224</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.530514591</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.504632982</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.520841232</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.647941512</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.598815356</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.532332632</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.587279753</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.505365973</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.659748793</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.51361531</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.556810389</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.557298993</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.562012502</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.6811191</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.631937273</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.509548752</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.540601835</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.540601835</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.692237057</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.641762783</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.652606052</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.660450387</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.503407283</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.569774878</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.570780842</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.558441137</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.507382647</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.542582219</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.604248385</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.688010439</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.670707426</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.523293838</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.515608852</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.569774878</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.502149088</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.516463478</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.529481643</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.587955067</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.543152174</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.514111259</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.508429496</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.676010925</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.659122528</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.641091427</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.654886707</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.547114693</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.503673232</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.587798849</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.536425529</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.598291194</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.526186899</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.641113959</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.654189827</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.538724352</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.628603008</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.549083777</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.558858683</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.544529154</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.548346003</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.548346003</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.549428487</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.55047703</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.55553876</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.554091</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.562506903</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.627909359</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.632239487</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.560759492</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.531187432</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.536746557</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.54107187</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.633410653</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.531036782</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.540883634</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.551876921</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.627909359</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.598043306</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.518652866</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.521746603</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.517698819</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.560913505</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.553759209</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.53234012</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.507423619</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.543112045</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.61952951</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.647577534</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.624395271</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.577157236</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.624720045</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.549373516</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.66491988</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.534834332</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.692113576</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.575213939</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.659909555</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.889651952</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.652916488</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.734775913</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.570361563</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.550498758</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.550498758</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.630458239</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.587033912</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.731014326</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.729626684</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.529057785</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.643599128</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.641966703</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.667234698</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.546791049</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.684139788</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.564536188</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.588779014</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.589988504</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.608078252</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.599298026</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.643599128</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.583442863</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.602235214</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.62741554</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.764589195</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.686779487</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.55878626</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.623721588</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.538374866</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.559497807</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.504368123</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>How the data are organized</Font></B>
+<Font Size="11" Color="#000000" Face="Arial"><BR/>The three columns define three groups. The replicate values are stacked in each column</Font>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/><BR/>How to graph these data</Font></B>
+<Font Size="11" Color="#000000" Face="Arial"><BR/>Look in the navigator to the left and find the Graphs folder. Click on the graph in bold. Prism will present several choices for graphing these data. With small numbers of values (like here), it is best to create a scatter plot that shows every value. </Font>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/><BR/>Notes</Font></B>
+<Font Size="11" Color="#000000" Face="Arial"><BR/><BR/>-Unlike many statistics programs, Prism does not define groups using a grouping variable. Instead, the groups are defined by which column each value is entered into. </Font>
+<Font Size="11" Color="#000000" Face="Arial"><BR/><BR/>-When you make a graph, you can choose to plot a column scatter graph (showing each value) or various kinds of graphs that summarize the data (bar graphs, box-and-whisker graphs, violin plots). </Font>
+</FloatingNote>
+
+<YColumn Width="125" Decimals="9" Subcolumns="1">
+<Title>Noval</Title>
+<Subcolumn>
+<d>0.647916</d>
+<d>0.624774</d>
+<d>0.577406</d>
+<d>0.625255</d>
+<d>0.549368</d>
+<d>0.665043</d>
+<d>0.53925</d>
+<d>0.690839</d>
+<d>0.575764</d>
+<d>0.659206</d>
+<d>0.88981</d>
+<d>0.652149</d>
+<d>0.734777</d>
+<d>0.569735</d>
+<d>0.549938</d>
+<d>0.549938</d>
+<d>0.630013</d>
+<d>0.587876</d>
+<d>0.730939</d>
+<d>0.729506</d>
+<d>0.530148</d>
+<d>0.643891</d>
+<d>0.642267</d>
+<d>0.667471</d>
+<d>0.55055</d>
+<d>0.684216</d>
+<d>0.565058</d>
+<d>0.587812</d>
+<d>0.589792</d>
+<d>0.607255</d>
+<d>0.5985</d>
+<d>0.643891</d>
+<d>0.584655</d>
+<d>0.602631</d>
+<d>0.627777</d>
+<d>0.764015</d>
+<d>0.686711</d>
+<d>0.558754</d>
+<d>0.623263</d>
+<d>0.542695</d>
+<d>0.559424</d>
+<d>0.50896</d>
+</Subcolumn>
+</YColumn>
+<YColumn Width="125" Decimals="9" Subcolumns="1">
+<Title>Traditional</Title>
+<Subcolumn>
+<d>0.509852</d>
+<d>0.617699</d>
+<d>0.597841</d>
+<d>0.612172</d>
+<d>0.624274</d>
+<d>0.537132</d>
+<d>0.574018</d>
+<d>0.593033</d>
+<d>0.60117</d>
+<d>0.565971</d>
+<d>0.54822</d>
+<d>0.558777</d>
+<d>0.560968</d>
+<d>0.544219</d>
+</Subcolumn>
+</YColumn>
+</Table>
+<Table ID="Table17" XFormat="none" TableType="OneWay" EVFormat="AsteriskAfterNumber">
+<Title>Meta: Bias corrected C index</Title>
+<FloatingNote ID="Sticky196" Auto="0" Color="Yellow" Left="2282" Top="450" Width="272" Height="1528" ScrWidth="1707" ScrHeight="1067" ScrDPI="144">
+<WebLink Flags="0" ToolTip="@help:column_tables" URL="@help:column_tables">
+More about Column tables
+</WebLink>
+
+<B><Font Size="11" Color="#000000" Face="Arial">0.507797247</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.518272768</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.502767035</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.582740595</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.524712088</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.507142069</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.514913236</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.550640536</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.502816635</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.526871843</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.507525552</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.570404068</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.508691912</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.5348707</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.547398967</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.547398967</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.582136137</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.509456992</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.509861354</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.508425368</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.503839543</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.51485396</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.515616703</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.530750482</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.58105894</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.520551583</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.511156438</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.507441084</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.585096278</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.508685331</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.5006404</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.51485396</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.535855136</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.599184479</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.571168871</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.506515842</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.536309277</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.531724437</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.568540559</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.545540224</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.530514591</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.504632982</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.520841232</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.647941512</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.598815356</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.532332632</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.587279753</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.505365973</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.659748793</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.51361531</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.556810389</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.557298993</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.562012502</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.6811191</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.631937273</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.509548752</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.540601835</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.540601835</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.692237057</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.641762783</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.652606052</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.660450387</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.503407283</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.569774878</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.570780842</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.558441137</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.507382647</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.542582219</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.604248385</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.688010439</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.670707426</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.523293838</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.515608852</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.569774878</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.502149088</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.516463478</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.529481643</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.587955067</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.543152174</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.514111259</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.508429496</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.676010925</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.659122528</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.641091427</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.654886707</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.547114693</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.503673232</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.587798849</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.536425529</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.598291194</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.526186899</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.641113959</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.654189827</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.538724352</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.628603008</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.549083777</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.558858683</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.544529154</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.548346003</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.548346003</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.549428487</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.55047703</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.55553876</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.554091</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.562506903</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.627909359</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.632239487</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.560759492</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.531187432</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.536746557</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.54107187</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.633410653</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.531036782</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.540883634</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.551876921</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.627909359</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.598043306</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.518652866</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.521746603</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.517698819</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.560913505</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.553759209</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.53234012</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.507423619</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.543112045</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.61952951</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.647577534</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.624395271</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.577157236</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.624720045</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.549373516</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.66491988</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.534834332</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.692113576</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.575213939</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.659909555</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.889651952</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.652916488</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.734775913</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.570361563</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.550498758</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.550498758</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.630458239</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.587033912</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.731014326</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.729626684</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.529057785</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.643599128</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.641966703</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.667234698</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.546791049</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.684139788</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.564536188</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.588779014</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.589988504</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.608078252</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.599298026</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.643599128</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.583442863</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.602235214</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.62741554</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.764589195</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.686779487</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.55878626</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.623721588</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.538374866</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.559497807</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.504368123</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>How the data are organized</Font></B>
+<Font Size="11" Color="#000000" Face="Arial"><BR/>The three columns define three groups. The replicate values are stacked in each column</Font>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/><BR/>How to graph these data</Font></B>
+<Font Size="11" Color="#000000" Face="Arial"><BR/>Look in the navigator to the left and find the Graphs folder. Click on the graph in bold. Prism will present several choices for graphing these data. With small numbers of values (like here), it is best to create a scatter plot that shows every value. </Font>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/><BR/>Notes</Font></B>
+<Font Size="11" Color="#000000" Face="Arial"><BR/><BR/>-Unlike many statistics programs, Prism does not define groups using a grouping variable. Instead, the groups are defined by which column each value is entered into. </Font>
+<Font Size="11" Color="#000000" Face="Arial"><BR/><BR/>-When you make a graph, you can choose to plot a column scatter graph (showing each value) or various kinds of graphs that summarize the data (bar graphs, box-and-whisker graphs, violin plots). </Font>
+</FloatingNote>
+
+<YColumn Width="125" Decimals="9" Subcolumns="1">
+<Title>Noval</Title>
+<Subcolumn>
+<d>0.656421428</d>
+<d>0.570347458</d>
+<d>0.657575725</d>
+<d>0.618292821</d>
+<d>0.639327214</d>
+<d>0.637283004</d>
+<d>0.626975148</d>
+<d>0.516449359</d>
+<d>0.656260699</d>
+<d>0.539167448</d>
+<d>0.630423822</d>
+<d>0.57477888</d>
+<d>0.531983561</d>
+<d>0.560311743</d>
+<d>0.545478827</d>
+<d>0.545478827</d>
+<d>0.569662817</d>
+<d>0.560119235</d>
+<d>0.521031568</d>
+<d>0.517137525</d>
+<d>0.586760903</d>
+<d>0.648128908</d>
+<d>0.648207759</d>
+<d>0.64346242</d>
+<d>0.509953303</d>
+<d>0.597618446</d>
+<d>0.525043237</d>
+<d>0.629516191</d>
+<d>0.554051745</d>
+<d>0.585744542</d>
+<d>0.573513256</d>
+<d>0.648128908</d>
+<d>0.533366516</d>
+<d>0.541397755</d>
+<d>0.569230705</d>
+<d>0.559684393</d>
+<d>0.560709828</d>
+<d>0.565409284</d>
+<d>0.547358537</d>
+<d>0.569466384</d>
+<d>0.600418229</d>
+<d>0.621467716</d>
+</Subcolumn>
+</YColumn>
+<YColumn Width="125" Decimals="9" Subcolumns="1">
+<Title>Traditional</Title>
+<Subcolumn>
+<d>0.628530884</d>
+<d>0.647893463</d>
+<d>0.58404593</d>
+<d>0.659054226</d>
+<d>0.65364927</d>
+<d>0.63553319</d>
+<d>0.548801754</d>
+<d>0.597241328</d>
+<d>0.596860937</d>
+<d>0.603336698</d>
+<d>0.554236032</d>
+<d>0.582261415</d>
+<d>0.580096956</d>
+<d>0.584010436</d>
+</Subcolumn>
+</YColumn>
+</Table>
+<Table ID="Table19" XFormat="none" TableType="OneWay" EVFormat="AsteriskAfterNumber">
+<Title>Meta: C index</Title>
+<FloatingNote ID="Sticky197" Auto="0" Color="Yellow" Left="2282" Top="450" Width="272" Height="1528" ScrWidth="1707" ScrHeight="1067" ScrDPI="144">
+<WebLink Flags="0" ToolTip="@help:column_tables" URL="@help:column_tables">
+More about Column tables
+</WebLink>
+
+<B><Font Size="11" Color="#000000" Face="Arial">0.507797247</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.518272768</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.502767035</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.582740595</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.524712088</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.507142069</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.514913236</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.550640536</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.502816635</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.526871843</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.507525552</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.570404068</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.508691912</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.5348707</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.547398967</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.547398967</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.582136137</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.509456992</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.509861354</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.508425368</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.503839543</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.51485396</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.515616703</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.530750482</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.58105894</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.520551583</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.511156438</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.507441084</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.585096278</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.508685331</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.5006404</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.51485396</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.535855136</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.599184479</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.571168871</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.506515842</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.536309277</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.531724437</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.568540559</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.545540224</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.530514591</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.504632982</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.520841232</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.647941512</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.598815356</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.532332632</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.587279753</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.505365973</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.659748793</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.51361531</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.556810389</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.557298993</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.562012502</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.6811191</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.631937273</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.509548752</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.540601835</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.540601835</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.692237057</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.641762783</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.652606052</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.660450387</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.503407283</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.569774878</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.570780842</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.558441137</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.507382647</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.542582219</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.604248385</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.688010439</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.670707426</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.523293838</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.515608852</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.569774878</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.502149088</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.516463478</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.529481643</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.587955067</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.543152174</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.514111259</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.508429496</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.676010925</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.659122528</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.641091427</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.654886707</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.547114693</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.503673232</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.587798849</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.536425529</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.598291194</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.526186899</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.641113959</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.654189827</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.538724352</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.628603008</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.549083777</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.558858683</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.544529154</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.548346003</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.548346003</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.549428487</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.55047703</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.55553876</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.554091</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.562506903</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.627909359</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.632239487</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.560759492</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.531187432</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.536746557</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.54107187</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.633410653</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.531036782</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.540883634</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.551876921</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.627909359</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.598043306</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.518652866</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.521746603</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.517698819</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.560913505</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.553759209</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.53234012</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.507423619</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.543112045</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.61952951</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.647577534</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.624395271</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.577157236</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.624720045</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.549373516</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.66491988</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.534834332</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.692113576</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.575213939</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.659909555</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.889651952</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.652916488</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.734775913</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.570361563</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.550498758</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.550498758</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.630458239</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.587033912</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.731014326</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.729626684</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.529057785</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.643599128</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.641966703</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.667234698</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.546791049</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.684139788</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.564536188</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.588779014</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.589988504</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.608078252</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.599298026</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.643599128</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.583442863</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.602235214</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.62741554</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.764589195</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.686779487</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.55878626</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.623721588</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.538374866</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.559497807</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>0.504368123</Font></B>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/>How the data are organized</Font></B>
+<Font Size="11" Color="#000000" Face="Arial"><BR/>The three columns define three groups. The replicate values are stacked in each column</Font>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/><BR/>How to graph these data</Font></B>
+<Font Size="11" Color="#000000" Face="Arial"><BR/>Look in the navigator to the left and find the Graphs folder. Click on the graph in bold. Prism will present several choices for graphing these data. With small numbers of values (like here), it is best to create a scatter plot that shows every value. </Font>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/><BR/>Notes</Font></B>
+<Font Size="11" Color="#000000" Face="Arial"><BR/><BR/>-Unlike many statistics programs, Prism does not define groups using a grouping variable. Instead, the groups are defined by which column each value is entered into. </Font>
+<Font Size="11" Color="#000000" Face="Arial"><BR/><BR/>-When you make a graph, you can choose to plot a column scatter graph (showing each value) or various kinds of graphs that summarize the data (bar graphs, box-and-whisker graphs, violin plots). </Font>
+</FloatingNote>
+
+<YColumn Width="125" Decimals="9" Subcolumns="1">
+<Title>Noval</Title>
+<Subcolumn>
+<d>0.656899477</d>
+<d>0.570274824</d>
+<d>0.657921994</d>
+<d>0.617858533</d>
+<d>0.639480599</d>
+<d>0.638584443</d>
+<d>0.627059173</d>
+<d>0.494131664</d>
+<d>0.656546471</d>
+<d>0.541751876</d>
+<d>0.630944253</d>
+<d>0.574461564</d>
+<d>0.532231123</d>
+<d>0.560352525</d>
+<d>0.545677873</d>
+<d>0.545677873</d>
+<d>0.569312078</d>
+<d>0.56135699</d>
+<d>0.521409861</d>
+<d>0.517567703</d>
+<d>0.586264426</d>
+<d>0.648566111</d>
+<d>0.648649549</d>
+<d>0.64389198</d>
+<d>0.499507796</d>
+<d>0.597196805</d>
+<d>0.525625885</d>
+<d>0.629606839</d>
+<d>0.558108526</d>
+<d>0.585645461</d>
+<d>0.574101337</d>
+<d>0.648566111</d>
+<d>0.533377593</d>
+<d>0.544504126</d>
+<d>0.568703944</d>
+<d>0.559676999</d>
+<d>0.560324846</d>
+<d>0.565170667</d>
+<d>0.557701364</d>
+<d>0.568886464</d>
+<d>0.600494209</d>
+<d>0.621401036</d>
+</Subcolumn>
+</YColumn>
+<YColumn Width="125" Decimals="9" Subcolumns="1">
+<Title>Traditional</Title>
+<Subcolumn>
+<d>0.628488449</d>
+<d>0.648333447</d>
+<d>0.583609254</d>
+<d>0.659161128</d>
+<d>0.653920581</d>
+<d>0.635425834</d>
+<d>0.548438948</d>
+<d>0.596929242</d>
+<d>0.596631593</d>
+<d>0.602886633</d>
+<d>0.553710382</d>
+<d>0.581755166</d>
+<d>0.579682856</d>
+<d>0.583476074</d>
+</Subcolumn>
+</YColumn>
+</Table>
+
+<!--Analyses, graphs and layouts as compressed binary. Don't edit this part of the file.-->
+
+<Template xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">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
+N41Fapzv/wEAAP//AwBntaR0</Template></GraphPadPrismFile>
