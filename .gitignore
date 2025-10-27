@@ -1,0 +1,69 @@
+# R临时文件
+.Rhistory
+.Rapp.history
+.RData
+.Ruserdata
+.Rproj.user/
+.Rproj/
+
+# R包文件
+*.Rproj
+*.Rproj.user/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 临时文件
+*.tmp
+*.temp
+*~
+
+# 日志文件
+*.log
+
+# 数据文件（如果很大）
+# *.csv
+# *.xlsx
+# *.sav
+# *.dta
+
+# 输出文件
+output/
+results/
+plots/
+figures/
+
+# 环境变量文件
+.env
+.env.local
+
+# IDE文件
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 备份文件
+*.bak
+*.backup
+
+# Windows系统文件
+AppData/
+ProgramData/
+Program Files/
+Windows/
+Users/
+
+# 权限受限文件
+*.jtx
+*.db
+*.sqlite
+*.sqlite3
+
+# 大文件和二进制文件
+*.exe
+*.dll
+*.so
+*.dylib
